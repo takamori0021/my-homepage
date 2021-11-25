@@ -48,7 +48,6 @@ list-style-type: none!important;
 }
 .profile_box ul li:before {
 font-family: "Font Awesome 5 Free";
-content: "f138";/*アイコンの種類*/
 font-weight:900;
 position: absolute;
 left : 1em;/*左端からのアイコンまでの距離*/
